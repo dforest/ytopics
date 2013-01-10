@@ -1,4 +1,4 @@
-yahoo-topics
+yahoo-topics.rb
 ============
 
-View yahoo(.co.jp) topics on command line
+View yahoo(.co.jp) topics on your terminal.
